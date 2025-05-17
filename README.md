@@ -1,13 +1,23 @@
-# Scrapyard
+# Scrapyard Cary
 
-Welcome to [**Scrapyard**](https://scrapyard.hackclub.com), Hack Club's winter 2025 worldwide hackathon!
+Welcome to the official repo for **Scrapyard Cary**, part of Hack Club’s worldwide Winter 2025 hackathon.
 
-_Want to create your own city page? See the [template](pages/example-city.js) and modify it to fit your event!_
+I organized and led this free, 24-hour in-person hackathon in Cary, NC, bringing together high school students from across the state to build and ship projects. We raised over $2500 in funding, had 100+ participants, and hit a 80%+ project deployment success rate.
 
-## Developing
+This event was part of Hack Club, the world’s largest open-source community for teen builders.
 
-You'll need NodeJS and Git installed to run the website locally and test changes - go to https://nodejs.org/en to download NodeJS and https://git-scm.com/ to download Git.
+Right now, I’m working on building a system to make Scrapyard Cary happen **twice a year**, with long-term community partners. I’m currently in talks with a local 3D printer store and Cary Parks & Rec to secure ongoing venue access and support.
 
-Once you have NodeJS installed, clone this repository using git (in the terminal, run `git clone https://github.com/hackclub/scrapyard.git`) and install the dependencies using `npm install`. You should then be able to run `npm run dev`, which will start a local development server that you can then use to test your changes.
+---
 
-Ask in the [#scrapyard](https://hackclub.slack.com/archives/C0864GFN63X) channel if you have any questions!
+## Running Locally
+
+To get started, make sure you have [Node.js](https://nodejs.org/en) and [Git](https://git-scm.com) installed.
+
+Then run:
+
+```bash
+git clone https://github.com/hackclub/scrapyard.git
+cd scrapyard
+npm install
+npm run dev
