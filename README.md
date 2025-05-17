@@ -2,7 +2,7 @@
 
 Welcome to the official repo for **Scrapyard Cary**, part of Hack Club’s worldwide Winter 2025 hackathon.
 
-I organized and led this free, 24-hour in-person hackathon in Cary, NC, bringing together high school students from across the state to build and ship projects. We raised over $2500 in funding, had 100+ participants, and hit a 80%+ project deployment success rate.
+I organized and led this free, 24-hour in-person hackathon in Cary, NC, bringing together high school students from across the state to build and ship projects. We raised over $2500 in funding, had 40+ participants, and hit a 80 %+ project deployment success rate.
 
 This event was part of Hack Club, the world’s largest open-source community for teen builders.
 
